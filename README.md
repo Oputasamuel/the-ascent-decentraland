@@ -1,6 +1,11 @@
 # THE ASCENT — Maze Vault
 
-THE ASCENT is a persistent public multiplayer maze game built with Decentraland SDK 7. Players deploy together from a sci-fi sky lobby, collect randomized glowing orbs, survive moving laser traps, and return carried orbs to the central vault before the round expires.
+THE ASCENT is a sci-fi  multiplayer maze game built with Decentraland SDK 7. 
+
+Players deploy together from a sci-fi sky lobby, they collect randomized glowing orbs, survive moving laser traps, and return carried orbs to the central vault... All against the time.
+Work as a team and collect as much orbs as posiible before the time ends!!
+
+play here: https://decentraland.social/smashingviews.dcl.eth
 
 ## Social gameplay
 
