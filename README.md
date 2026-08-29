@@ -63,3 +63,10 @@ Open the project in Creator Hub, select **Publish**, then deploy it to a public 
 ## License and asset notices
 
 The original source code in this repository is released under the MIT License. Third-party models, textures, audio, fonts, and Decentraland asset-pack content remain subject to their respective authors' licenses and are not relicensed by the MIT License. Review the original asset sources and license terms before redistributing those assets outside this project.
+
+## Images 
+
+<img width="1672" height="941" alt="photo_2026-08-29_23-34-54" src="https://github.com/user-attachments/assets/117d820a-51ff-40fb-bb4d-145b36867d7a" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6cbca8ab-23d9-435a-915a-fc23459ee354" />
+<img width="2532" height="1170" alt="image" src="https://github.com/user-attachments/assets/87fc08d8-d363-4d92-99e0-5f60f3c38307" />
+<img width="2532" height="1170" alt="image" src="https://github.com/user-attachments/assets/cdf9ecd2-7a49-438b-a25f-becff4359750" />
