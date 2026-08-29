@@ -1,0 +1,11 @@
+Maze Overdrive music
+Source: https://opengameart.org/content/fast-fun-action-techno-loop-1
+File: fast_techno_action_loop.ogg
+Author: annandistance
+License: CC0 1.0 Universal / public domain dedication
+
+Teleport sound
+Source: https://opengameart.org/content/spell-sounds
+File: teleport.ogg
+Author: Augmentality (Brandon Morris), submitted by HaelDB
+License listed by source: CC0 and OGA-BY 3.0

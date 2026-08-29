@@ -1,0 +1,9 @@
+Environment assets
+- tech-wall.png: Gritty Lowres Scifi Wall and Floor Textures, OpenGameArt, CC0.
+  Source: https://opengameart.org/content/gritty-lowres-scifi-wall-and-floor-textures
+
+- kenpixel-future-square.ttf: Kenney Fonts, CC0. Source: https://opengameart.org/content/kenney-fonts
+
+- laser-emitter.glb: turret_single from Space Kit by Kenney, CC0. Source: https://kenney.nl/assets/space-kit
+
+- time-orb.glb: Time Orb by murilojones, licensed CC BY 4.0. Source: https://sketchfab.com/3d-models/time-orb-4a5c39889f0e4328b233e94d47b4a929
